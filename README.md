@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @AndiBrandi
 - 👀 I’m interested in Videogames and how they work
-- 🌱 I have been learning Java recently, am looking forward to learn to properly code in Python or JS next
+- 🌱 The Languages i know are...
+  - Java, Common to Advanced understanding
+  - C#/.NET, Common to Advanced understanding
+  - JS, Basic understanding
+  - Python, Basic understanding
 - 📘 I recently graduated from the HTBLA Steyr in Electronics & technical IT
 - 📫 How to reach me: 
-  - Discord: Andi#8378 (if you message me please mention that you came here from GitHub)
+  - Discord: Andi#8378 / @_andinator (if you message me please mention that you came from GitHub)
 
 <!---
 AndiBrandi/AndiBrandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
