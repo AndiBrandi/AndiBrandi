@@ -6,7 +6,6 @@
   - C/C++, Common understanding
   - JS, Basic understanding
   - Python, Basic understanding
-- 📘 I recently graduated from the HTBLA Steyr in Electronics & technical IT
 - 📫 How to reach me: 
   - Discord: Andi#8378 / @_andinator (if you message me please mention that you came from GitHub)
 
