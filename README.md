@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndiBrandi
+- 👋 Hi, I’m Andreas
 - 👀 I’m interested in Videogames and how they work
 - 🌱 The Languages i know are...
   - Java, Common to Advanced understanding
